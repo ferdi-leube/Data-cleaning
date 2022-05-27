@@ -24,11 +24,6 @@ Felicia/Ferdi/Natan
   -Filling missing data whilst maintaining data integrity
   -Write relevant queries
 
-## Deliverables
-
-- `main.ipynb` with your responses.
-- readme file with your summary
-
 ## Resources
 
 [Repo] (https://github.com/ferdi-leube/Module1_Project3)
