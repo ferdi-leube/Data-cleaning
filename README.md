@@ -28,6 +28,6 @@ Felicia/Ferdi/Natan
 
 [Repo] (https://github.com/ferdi-leube/Module1_Project3)
 
-[Trello](https://trello.com/userworkspace61747357/members?utm_source=eval-email&utm_medium=email&utm_campaign=team-invite)
+[Trello] (https://trello.com/userworkspace61747357/members?utm_source=eval-email&utm_medium=email&utm_campaign=team-invite)
 
 [Raw Data File] (https://drive.google.com/drive/u/0/folders/13EBxAZlF_priLVODhl3nLJI_l5-5WIK1)
