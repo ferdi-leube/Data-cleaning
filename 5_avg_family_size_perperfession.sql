@@ -12,10 +12,12 @@ from general_data
 group by profession
 order by profession;
 
+select * from pr_sc;
 drop table pr_sc;
 
-select * from pr_fs
-left join pr_sc
-on pr_fs.profession = pr_sc.profession
-group by pr_fs.profession
-order by pr_fs.avg_fs, pr_sc.avg_sc;
+
+SELECT prf.profession as profession , prf.avg_fs as avg_fs, prs.avg_sc as avg_sc
+FROM pr_fs prf
+CROSS JOIN pr_sc prs
+on prf.profession = prs.profession
+order by avg_fs;
